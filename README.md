@@ -65,10 +65,13 @@ The raw dataset (`fuel_raw_data.csv`) underwent rigorous cleaning and explorator
 ---
 
 ## 7. How to Run
+pip install -r requirements.txt
+streamlit run app.py
 ### 🚀 Live Demo
 Access the interactive Streamlit dashboard here:
 **[Fuel Scarcity Forecasting App](https://fuel-scarcity-forecasting-hpy7goppjq77dm7aptkv6s.streamlit.app/)**
 
 ### Clone the repository:
-   ```bash
-   git clone [https://github.com/Legendmbank/Fuel-scarcity-forecasting.git](https://github.com/Legendmbank/Fuel-scarcity-forecasting.git)
+  ```
+git clone https://github.com/Legendmbank/Fuel-scarcity-forecasting.git
+```
