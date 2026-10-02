@@ -1,4 +1,4 @@
-# Fuel-scarcity-forecasting (MVP) — 3MTT Capstone Project
+# Fuel-scarcity-forecasting (MVP) — 3MTT Capstone Project (August 2026)
 MVP model for predicting fuel scarcity likelihood using time-series machine learning.
 
 ## 1. Project Context & Problem Statement
